@@ -1,0 +1,31 @@
+.ff{
+	text-align: center;
+	width: 500xp;
+	color: white;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+p1{
+	display: inline;
+}
+p{
+	font-weight: bold;
+	font-size: 35px;
+}
+body {
+  background: url(nastol.com.ua-277274.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.yy{
+	color: white;
+}
+button {
+	border-radius: 5px;
+	background: url(simple-ruby-color-texture-background_922038-540.png);
+}
